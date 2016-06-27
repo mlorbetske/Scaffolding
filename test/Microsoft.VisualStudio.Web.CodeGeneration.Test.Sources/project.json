@@ -1,8 +1,7 @@
 {
   "shared": "*.cs",
   "dependencies": {
-    "Microsoft.Extensions.CodeGeneration.Core": "1.0.0-*"
-    
+    "Microsoft.Extensions.CodeGeneration.Core": "1.0.0-rc1-final"
   },
   "frameworks": {
     "netstandard1.5": {
